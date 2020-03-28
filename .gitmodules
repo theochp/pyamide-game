@@ -1,0 +1,6 @@
+[submodule "pyramide-front"]
+	path = pyramide-front
+	url = git@github.com:theochp/pyramide-front.git
+[submodule "pyramide-server"]
+	path = pyramide-server
+	url = git@github.com:theochp/pyramide-back.git
